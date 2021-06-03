@@ -1,5 +1,4 @@
-## What’s the difference between Bitcoin Cash and Bitcoin?
-<details>
+## What’s the difference between Bitcoin Cash and Bitcoin?<details>
   <summary>
 
   </summary>
