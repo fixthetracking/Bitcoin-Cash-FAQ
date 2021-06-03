@@ -1,0 +1,2 @@
+# BCHFAQ
+ Bitcoin Cash FAQ
