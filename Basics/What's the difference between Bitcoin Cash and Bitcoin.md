@@ -1,7 +1,8 @@
 <details>
   <summary>What’s the difference between Bitcoin Cash and Bitcoin?</summary>
 
-  Bitcoin Cash and Bitcoin (BTC) used to be one and the same until August 1, 2017. That’s when the original network split and two separate coins were the result. At the moment of the split every owner of Bitcoin had the same amount of coins on both networks.
+  
+Bitcoin Cash and Bitcoin (BTC) used to be one and the same until August 1, 2017. That’s when the original network split and two separate coins were the result. At the moment of the split every owner of Bitcoin had the same amount of coins on both networks.
 
 Since that time BTC has retained a 1MB “blocksize” (the space allowed for transactions every 10 minutes) even though transaction throughput had already reached a limit (about 300,000 transactions per day). The result is that BTC transactions can be quite expensive with the average transaction fee reaching as high as $50 at times. BTC transactions are also potentially very slow if you do not pay a high enough fee. Some transactions get stuck in limbo for days or weeks. To alleviate the problem of congestion and high fees, the BTC community hopes to rely on second-layer solutions (e.g. Lightning Network), only using the BTC network as a settlement layer or for very high-value transactions.
 
