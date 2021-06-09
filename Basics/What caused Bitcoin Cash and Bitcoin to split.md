@@ -1,5 +1,4 @@
 ## What Caused Bitcoin Cash and Bitcoin to Split?
-<details><summary></summary>
 
 Bitcoin Cash (BCH) and Bitcoin (BTC) shared a history until August 1, 2017. That’s when a “hard fork” happened which deliberately caused a network split. A hard fork is simply a change in the rules of the network to either add new features or to fix a bug. Some people refer to hard forks as “upgrades” and they don’t have to lead to network splits.
 
@@ -13,6 +12,4 @@ On the other side of the scaling debate, a significant portion of the Bitcoin co
 
 The major Bitcon discussion forums were controlled by small blockers and became extremely censored, favoring arguments for keeping blocks small. Therefore, the mainstream narrative of Bitcoin ended up integrating those ideas. Bitcoin developers had been working on an upgrade called “Segregated Witness” (SegWit), a code workaround that would purportedly allow some additional transactions to be processed without raising the blocksize limit. SegWit would also allow for second-layer solutions to be implemented. 
 
-While Bitcoin was preparing to upgrade to SegWit, a group of big blockers decided to hard fork a version of Bitcoin that would remain SegWit-free and follow Satoshi’s original scaling design. This version, named Bitcoin Cash (BCH), hard forked on August 1, 2017 at block height 478559 and introduced a completely adjustable blocksize with an initial soft limit of 8MB. 
-
-</details>
+While Bitcoin was preparing to upgrade to SegWit, a group of big blockers decided to hard fork a version of Bitcoin that would remain SegWit-free and follow Satoshi’s original scaling design. This version, named Bitcoin Cash (BCH), hard forked on August 1, 2017 at block height 478559 and introduced a completely adjustable blocksize with an initial soft limit of 8MB.

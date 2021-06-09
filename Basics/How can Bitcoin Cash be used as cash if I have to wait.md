@@ -1,5 +1,4 @@
 ## How Can Bitcoin Cash Be Used as Cash if I Have to Wait 10 Minutes or More for a Confirmation?
-<details><summary></summary>
 
 With Bitcoin Cash you do not have to wait for a confirmation for the vast majority of transactions. 
 
@@ -10,5 +9,3 @@ What sets Bitcoin Cash apart is its dedication to scaling. Because of that there
 0-conf security is definitely not absolute. It is technically possible for a miner (or someone colluding with a miner) to stealthily double-spend a transaction. But such schemes are only profitable with very large amounts. Therefore, any transaction worth less than $1000 USD (and possibly much more than that) should be just fine to accept without any confirmations. 
 
 Of course any business or exchange is free to set their own 0-conf policies. Some exchanges require multiple confirmations before crediting deposited amounts. However, not all businesses or exchanges base their policies off of actual risk or hard data.
-
-</details>

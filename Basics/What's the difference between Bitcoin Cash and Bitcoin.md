@@ -1,5 +1,4 @@
 ## What’s the Difference Between Bitcoin Cash and Bitcoin?
-<details><summary></summary>
 
   
 Bitcoin Cash and Bitcoin (BTC) used to be one and the same until August 1, 2017. That’s when the original network split and two separate coins were the result. At the moment of the split every owner of Bitcoin had the same amount of coins on both networks.
@@ -9,5 +8,3 @@ Since that time BTC has retained a 1MB “blocksize” (the space allowed for tr
 Bitcoin Cash, on the other hand, upgraded its protocol to expand the blocksize. The Bitcoin Cash blocksize is fully adjustable with only soft limits in place. Bitcoin Cash developers  research and test larger and larger blocks, working to optimize the network and eliminate potential bugs. As market demand increases and protocol research progresses, the community works together to raise the soft limits on the blocksize over time. 
 
 The result is that Bitcoin Cash transactions are extremely inexpensive and only cost a fraction of a penny for a typical transaction. This focus on inexpensive transactions opens up a world of payments-based use cases and allows for the possibility of onboarding millions of users and merchants.
-
-</details>
