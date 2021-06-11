@@ -1,4 +1,4 @@
-## How Can I Earn Bitcoin Cash?
+# How Can I Earn Bitcoin Cash?
 
 There are many ways to earn Bitcoin Cash. If you have a business, make sure to implement Bitcoin Cash as a payment option. There are many payment gateways that simplify accepting Bitcoin Cash, including [prompt.cash](https://prompt.cash/), [BitPay](https://bitpay.com/), and [GoCrypto](https://gocrypto.com/).
 
