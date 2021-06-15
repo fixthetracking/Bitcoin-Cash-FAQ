@@ -1,0 +1,1 @@
+# Can't I just use Bitcoin's Lightning Network for cash use cases?

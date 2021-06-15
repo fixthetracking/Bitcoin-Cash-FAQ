@@ -1,0 +1,1 @@
+# Does BCH mining waste energy?

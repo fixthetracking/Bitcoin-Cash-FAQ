@@ -1,0 +1,1 @@
+# How can I accept BCH as a merchant?

@@ -1,0 +1,1 @@
+# Why should I back up my wallet seed phrase?

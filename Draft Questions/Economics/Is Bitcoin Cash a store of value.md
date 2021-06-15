@@ -1,0 +1,1 @@
+# Is Bitcoin Cash a store of value?

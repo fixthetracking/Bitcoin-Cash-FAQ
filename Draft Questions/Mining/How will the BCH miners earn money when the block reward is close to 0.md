@@ -1,0 +1,1 @@
+# How will the BCH miners earn money when the block reward is close to 0?
