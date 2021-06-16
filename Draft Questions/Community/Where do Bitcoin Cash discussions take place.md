@@ -1,4 +1,4 @@
-# Where do Bitcoin Cash discussions take place?
+# Where Do Bitcoin Cash Discussions Take Place?
 
 The subreddits [r/btc](https://www.reddit.com/r/btc/) and [r/BitcoinCash](https://www.reddit.com/r/Bitcoincash/) are very active with hundreds of thousands of subscribers and dozens of new posts every day. Most new announcements in the Bitcoin Cash ecosystem are likely to be posted in those subreddits.
 
