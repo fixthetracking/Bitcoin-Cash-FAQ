@@ -4,4 +4,4 @@ The subreddits [r/btc](https://www.reddit.com/r/btc/) and [r/BitcoinCash](https:
 
 A lot of Bitcoin Cash discussion also takes place in the [Bitcoin Cash Telegram Channel](https://t.me/bchchannel). Anyone with the Telegram app can join and add to the conversation.
 
-A great deal of technical discussions happen at [Bitcoin Cash Research](https://bitcoincashresearch.org/). Anyone is free to sign up and contribute.
+A great deal of technical discussion happens at [Bitcoin Cash Research](https://bitcoincashresearch.org/). Anyone is free to sign up and contribute.
