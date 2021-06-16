@@ -1,0 +1,1 @@
+# Why are r/btc subscribers so negative about BTC?
