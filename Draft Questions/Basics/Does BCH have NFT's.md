@@ -1,1 +1,0 @@
-# Does BCH have NFT's?
