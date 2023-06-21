@@ -1,1 +1,0 @@
-# Why should I use BCH for payments?

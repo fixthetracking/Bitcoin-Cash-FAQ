@@ -1,0 +1,1 @@
+# Does Bitcoin Cash mining waste energy?

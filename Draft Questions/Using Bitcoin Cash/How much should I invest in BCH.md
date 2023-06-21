@@ -1,1 +1,0 @@
-# How much should I invest in BCH?

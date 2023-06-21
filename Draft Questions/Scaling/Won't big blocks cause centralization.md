@@ -1,1 +1,0 @@
-# Won't big blocks cause centralization?

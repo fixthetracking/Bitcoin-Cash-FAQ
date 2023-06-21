@@ -1,0 +1,1 @@
+# How will the Bitcoin Cash miners earn money when the block reward is close to 0?

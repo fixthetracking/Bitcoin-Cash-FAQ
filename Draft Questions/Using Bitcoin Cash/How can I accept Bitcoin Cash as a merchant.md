@@ -1,0 +1,1 @@
+# How can I accept Bitcoin Cash as a merchant?
