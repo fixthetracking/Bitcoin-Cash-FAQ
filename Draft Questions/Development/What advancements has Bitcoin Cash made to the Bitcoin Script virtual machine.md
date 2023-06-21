@@ -1,0 +1,4 @@
+# What advancements has Bitcoin Cash made to the Bitcoin Script virtual machine?
+
+
+Since Bitcoin Cash split from BTC, it has upgraded the Bitcoin Script VM in numerous ways. Such improvements include malleability fixes, Schnorr signatures, Schnorr signatures for multisig, multiple OP_RETURNs, 64-byte integer support, native introspection, CashTokens, numerous reenabled opcodes, and many new opcodes. A fairly comprehensive list of all the Bitcoin Script VM changes can be found in [this stack exchange answer](https://bitcoin.stackexchange.com/questions/41906/any-innovations-in-altcoin-tech-for-bitcoin-s-script-language).

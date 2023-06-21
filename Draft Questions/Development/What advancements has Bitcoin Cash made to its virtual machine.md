@@ -1,1 +1,0 @@
-# What advancements has Bitcoin Cash made to its virtual machine?
