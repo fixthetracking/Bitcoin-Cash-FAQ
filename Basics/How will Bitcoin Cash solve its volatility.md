@@ -1,4 +1,4 @@
-# How will Bitcoin Cash solve tts volatility?
+# How will Bitcoin Cash solve its volatility?
 
 Volatility may or may not be a problem to be solved, depending on the use case. For example, many Bitcoin Cash users anticipate an increased value of their coins. To realize such hopes, volatility is a good thing those users embrace even though it includes the risk of Bitcoin Cash dropping in value. 
 
