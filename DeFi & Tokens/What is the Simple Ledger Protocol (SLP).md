@@ -1,0 +1,4 @@
+# What is the Simple Ledger Protocol (SLP)?
+
+
+The first effort to have tokens on Bitcoin Cash resulted in the Simple Ledger Protocol (SLP). However, SLP tokens were not actually part of the Bitcoin Cash protocol. SLP tokens were not miner-validated. Instead they relied on external validators - servers that were dedicated to tracking every transaction of every SLP token and validating balances. SLP-compatible wallets were required to query these external SLP validation nodes. Such a system ended up being computationally expensive, unreliable, and not nearly as secure as Bitcoin Cash itself. SLP tokens were also not able to interact with the Bitcoin Script virtual machine, resulting in very low utility in smart contract applications. SLP tokens still exist but the infrastructure required to validate them is slowly disappearing over time as more resources focus more on CashTokens.
