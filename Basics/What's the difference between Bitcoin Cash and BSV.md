@@ -6,6 +6,6 @@ In recent years BSV has focused on being a government regulation-friendly blockc
 
 As a result of issues with node synchronization, the bloat of arbitrary arbitrary data on the blockchain, and controversial leadership; many block explorers and cryptocurrency exchanges have dropped support for BSV.
 
-In contrast to BSV, Bitcoin Cash has worked continually to reenable or introduce opcodes in the virtual machine to improve the protocol's functionality. Bitcoin Cash has also increased the block size while taking care to optimize the rest of the ecosystem for increased throughput. This more thought-out approach has led to very stable upgrades and network performance.
+In contrast to BSV, Bitcoin Cash has worked continually to reenable or introduce opcodes in the virtual machine to improve the protocol's functionality. Bitcoin Cash has also carefully increased the block size while taking care to optimize the rest of the ecosystem for increased throughput. This more thought-out approach has led to very stable upgrades, solid network performance, and continued support in block explorers and exchanges.
 
 Another distinction from BSV is that Bitcoin Cash development is highly decentralized. No person or group controls the direction of the protocol. Any individual is free to propose changes and try to gain feedback and consensus. Node teams, miners, businesses, and other stakeholders must cooperate to find the best solutions to problems and improvements to Bitcoin Cash.
