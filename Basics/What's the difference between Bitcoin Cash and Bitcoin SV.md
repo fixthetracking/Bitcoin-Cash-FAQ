@@ -1,4 +1,4 @@
-# What's the difference between Bitcoin Cash and Bitcoin SV?
+# What's the Difference Between Bitcoin Cash and BSV?
 
 
 Similar to how Bitcoin Cash and BTC had a shared history up to a point, Bitcoin Cash and Bitcoin SV (BSV) also had shared history. BSV forked off from Bitcoin Cash in November 2018. BSV direction and development is centered around Craig Wright, who has controversially claimed numerous times to be Satoshi Nakamoto, the creator of Bitcoin. So far Wright has failed to offer any proof for this claim.
