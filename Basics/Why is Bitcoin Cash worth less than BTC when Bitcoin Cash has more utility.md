@@ -1,4 +1,4 @@
-# Why Is Bitcoin Cash Worth Less Than BTC When Bitcoin Cash Has More Utility?
+# Why is Bitcoin Cash worth less than BTC when Bitcoin Cash has more utility?
 
 The value of cryptocurrencies is completely up to supply and demand. At this point in time, there is simply more demand for BTC. 
 

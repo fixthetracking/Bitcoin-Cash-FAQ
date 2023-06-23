@@ -1,4 +1,4 @@
-# Who Develops the Bitcoin Cash Protocol?
+# Who develops the Bitcoin Cash protocol?
 
 The Bitcoin Cash protocol is not controlled by any single individual, institution, or development team. Anyone is free to contribute. A lot of the work is done as a collaboration between the [six full node development teams](https://bitcoincash.org/#nodes) and other independent developers. 
 

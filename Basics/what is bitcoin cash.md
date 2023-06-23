@@ -1,4 +1,4 @@
-# What Is Bitcoin Cash?
+# What is Bitcoin Cash?
 
 Bitcoin Cash is a global, peer-to-peer cryptocurrency that allows value to be sent to anyone, anywhere in the world, without intermediaries. Bitcoin Cash is not controlled by any single entity and is instead secured permissionlessly by thousands of computers around the world dedicated to maintaining the network. 
 

@@ -1,4 +1,4 @@
-# Is Bitcoin Cash Centralized?
+# Is Bitcoin Cash centralized?
 
 No, Bitcoin Cash is not centralized. There is no central point of control over the Bitcoin Cash network that can be abused or compromised. Just like BTC, there are thousands of network nodes around the world running software to secure Bitcoin Cash and validate Bitcoin Cash transactions. In fact, the same entities that mine BTC also mine Bitcoin Cash.
 

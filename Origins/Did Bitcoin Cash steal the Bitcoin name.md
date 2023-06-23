@@ -1,4 +1,4 @@
-# Did Bitcoin Cash Steal the Bitcoin Name?
+# Did Bitcoin Cash steal the Bitcoin name?
 
 The idea of stealing the name “Bitcoin” implies that the Bitcoin name is or can be owned. Ignoring the question of whether intellectual property actually exists at all, the use of the Bitcoin name to describe open-source protocols has been fair game since the invention of Bitcoin. Bitcoin was originally released under the MIT license, which is extremely permissive. 
 

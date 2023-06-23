@@ -1,4 +1,4 @@
-# What’s the Difference Between Bitcoin Cash and Bitcoin?
+# What’s the difference between Bitcoin Cash and Bitcoin?
 
   
 Bitcoin Cash and Bitcoin (BTC) used to be one and the same until August 1, 2017. That’s when the Bitcoin network split and two separate coins were the result. At the moment of the split every owner of Bitcoin had the same amount of coins on both networks.

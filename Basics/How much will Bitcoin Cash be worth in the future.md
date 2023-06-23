@@ -1,4 +1,4 @@
-# How Much Will Bitcoin Cash Be Worth in the Future?
+# How much will Bitcoin Cash be worth in the future?
 
 Nobody knows what the price of Bitcoin Cash (or any asset) will be at any point in the future. Its value is always based on supply and demand, which are constantly shifting. 
 

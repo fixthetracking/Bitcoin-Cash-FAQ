@@ -1,4 +1,4 @@
-# Did Roger Ver Create Bitcoin Cash?
+# Did Roger Ver create Bitcoin Cash?
 
 Roger Ver did not create Bitcoin Cash, nor was he involved in the Bitcoin Cash hard fork in any capacity. Roger had been an enthusiastic and extremely vocal supporter of Bitcoin since 2011 and was one of the first investors in Bitcoin-related businesses. 
 

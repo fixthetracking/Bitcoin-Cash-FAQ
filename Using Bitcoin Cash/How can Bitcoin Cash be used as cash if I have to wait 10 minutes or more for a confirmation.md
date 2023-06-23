@@ -1,4 +1,4 @@
-# How Can Bitcoin Cash Be Used as Cash if I Have to Wait 10 Minutes or More for a Confirmation?
+# How can Bitcoin Cash be used as cash if I have to wait 10 minutes or more for a confirmation?
 
 With Bitcoin Cash you do not have to wait for a confirmation for the vast majority of transactions. 
 

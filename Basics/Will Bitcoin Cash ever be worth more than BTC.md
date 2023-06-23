@@ -1,4 +1,4 @@
-# Will Bitcoin Cash Ever Be Worth More Than BTC?
+# Will Bitcoin Cash ever be worth more than BTC?
 
 The value of Bitcoin Cash is based on supply and demand and the economic interactions of millions of people. Therefore, it is unknown whether Bitcoin Cash can ever be worth more than BTC. 
 
