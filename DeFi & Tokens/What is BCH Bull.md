@@ -1,7 +1,7 @@
 # What is BCH Bull?
 
 
-[BCH Bull](https://bchbull.com/) allows users to take either long positions (with leverage) or hedged positions on Bitcoin Cash against metals, fiat currencies, or other cryptocurrencies. This is all done entirely using smart contracts on Bitcoin Cash using the [AnyHedge Protocol](https://anyhedge.com/).
+[BCH Bull](https://bchbull.com/) allows users to take either long positions (with leverage) or hedged positions on Bitcoin Cash against metals, fiat currencies, or other cryptocurrencies. This is all done with smart contracts on Bitcoin Cash using the [AnyHedge Protocol](https://anyhedge.com/).
 
 The contracts on BCH Bull are non-custodial. That means there is no third party that holds the funds. There are no borrowed assets (thus no risk of margin calls) and everything happens on the Bitcoin Cash blockchain. This ensures the contract executes as expected as no one is able to alter the terms or run off with the funds.
 
