@@ -1,5 +1,3 @@
-# Why is r/btc about Bitcoin Cash instead of BTC?
-
 
 [r/btc](https://www.reddit.com/r/btc/) is a place where redditors are free to discuss any Bitcoin-based protocol and associated projects. r/btc was started in 2011, which was very early in Bitcoin’s history and six years before the Bitcoin Cash/BTC split. 
 
