@@ -8,3 +8,5 @@ Fungible tokens are indistinguishable from all other units. They can be merged o
 Non-fungible tokens are unique and cannot be merged or divided. They serve as authenticated messages belonging to a specific token category issued by an entity. Non-fungible tokens allow contracts to attest to a commitment in an impersonation-proof manner and facilitate the interaction between different contracts, enabling the development of advanced decentralized applications on the Bitcoin Cash network.
 
 CashTokens enable increased smart contract functionality on Bitcoin Cash. While the CashTokens ecosystem is in its infancy, it can be as powerful as the most popular smart contract blockchains. And with Bitcoin Cash's UTXO design and dedication to on-chain scaling, the smart contract ecosystem on Bitcoin Cash has the potential to [scale 1000x more than EVM chains](https://blog.bitjson.com/comments-on-bch-2023-upgrade/). Such a system would ensure high usability, even in times of high network demand.
+
+For users or developers with questions about CashTokens, the [CashTokens Telegram Channel](https://t.me/rcashtokens) is a great place for discussion.
