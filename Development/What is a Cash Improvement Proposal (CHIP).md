@@ -5,6 +5,6 @@ A Cash Improvement Proposal (CHIP) is a detailed process recommendation for achi
 
 Careful research and evaluation of risks and benefits for any proposed changes is key. A CHIP should also describe a clear and structured evaluation process with defined milestones and schedules to minimize conflicts and instability.
 
-The CHIP process aims to build consensus and persuade stakeholders through transparent evaluations and wide support from relevant groups. It also provides a dispute resolution process, which involves gaining support from hashpower, verified stakeholders, and custodial exchanges, to resolve any disagreements. The CHIP process can reduce uncertainty and conflicts, increase investment confidence in Bitcoin Cash, and facilitate orderly decision-making.
+The CHIP process aims to build consensus and persuade stakeholders through evaluations and wide support from relevant groups. Interested stakeholders (including miners, exchanges, and developers) are invited to participate in CHIP discussions to resolve concerns or disagreements on specifics. The CHIP process can reduce uncertainty and conflicts, increase investment confidence in Bitcoin Cash, and facilitate orderly decision-making.
 
 Overall, CHIPs provide a structured and transparent process to drive positive changes in the Bitcoin Cash network while considering the long-term value of Bitcoin Cash. They encourage collaboration among stakeholders, developers, and the community to avoid confrontational forks and ensure the stability and growth of the network.
