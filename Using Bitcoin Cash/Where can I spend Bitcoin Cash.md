@@ -5,7 +5,7 @@ There are thousands of merchants and businesses around the world that accept Bit
 
 * [BitPay directory](https://bitpay.com/directory/): View all the merchants that accept crypto payments through BitPay. Nearly all of them accept Bitcoin Cash. 
 * [Bitgree.com](https://www.bitgree.com/): Buy anything on Amazon with Bitcoin Cash through intermediaries. 
-* [Payb](https://payb.io/): Use Bitcoin Cash to purchase from any online store through payb.
+* [Payb](https://payb.io/): Use this service to purchase from any online store using Bitcoin Cash.
 * [CoinsBee.com](https://www.coinsbee.com): Purchase gift cards with Bitcoin Cash.
 * [Keys4Coins.com](https://www.keys4coins.com/): A PC games store that accepts Bitcoin Cash.
 * [AcceptBitcoin.Cash](https://acceptbitcoin.cash/): Browse merchants who accept Bitcoin Cash by category. 
