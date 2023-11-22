@@ -1,6 +1,15 @@
 # Where can I spend Bitcoin Cash?
 
 
-There are thousands of merchants and businesses around the world that accept Bitcoin Cash. [BitPay](https://bitpay.com/directory/) lists all the merchants that accept crypto payments through their payment gateway and nearly all of them accept Bitcoin Cash. [Acceptbitcoin.cash](https://acceptbitcoin.cash/) allows you to browse merchants by category. [Map.bitcoin.com](https://map.bitcoin.com/) and [cash-map.org](https://cash-map.org/) allow you to browse merchants through a map interface. And [bitcoincash.org](https://bitcoincash.org/#services) lists several services and projects that accept Bitcoin Cash.
+There are thousands of merchants and businesses around the world that accept Bitcoin Cash. Here are some tools to help you find them. 
 
-If you accept Bitcoin Cash for your business, list your business on these websites for more exposure. Additionally, nothing is stopping you from convincing your favorite merchants to accept Bitcoin Cash.
+* [BitPay directory](https://bitpay.com/directory/): View all the merchants that accept crypto payments through BitPay. Nearly all of them accept Bitcoin Cash. 
+* [Bitgree.com](https://www.bitgree.com/): Buy anything on Amazon with Bitcoin Cash through intermediaries. 
+* [Payb](https://payb.io/): Use Bitcoin Cash to purchase from any online store through payb.
+* [CoinsBee.com](https://www.coinsbee.com): Purchase gift cards with Bitcoin Cash.
+* [Keys4Coins.com](https://www.keys4coins.com/): A PC games store that accepts Bitcoin Cash.
+* [AcceptBitcoin.Cash](https://acceptbitcoin.cash/): Browse merchants who accept Bitcoin Cash by category. 
+* [Map.bitcoin.com](https://map.bitcoin.com/) and [Cash-Map.org](https://cash-map.org/): Browse merchants through a map interface. 
+* [BitcoinCash.org](https://bitcoincash.org/#services): View several services and projects that accept Bitcoin Cash.
+
+If you accept Bitcoin Cash for your business, list your business on one or more of these websites for more exposure. If you are a consumer, convince your favorite merchants to accept Bitcoin Cash.
