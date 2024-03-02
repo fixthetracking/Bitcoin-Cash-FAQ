@@ -1,4 +1,4 @@
-[CashFusion](https://cashfusion.org/) is a privacy-enhancing feature for Bitcoin transactions that combines two key ideas. The first idea involves enabling trustless, private, multi-input coinjoins with blame capabilities through a commitment-based multiparty computation scheme. The second idea eliminates the equal-amount concept and focuses on increasing privacy by using a large number of inputs and outputs.
+[CashFusion](https://cashfusion.org/) is a privacy-enhancing feature for Bitcoin transactions that combines two key ideas. The first idea involves enabling trustless, private, multi-input CoinJoins with blame capabilities through a commitment-based multiparty computation scheme. The second idea eliminates the equal-amount concept and focuses on increasing privacy by using a large number of inputs and outputs.
 
 The primary goal of CashFusion is to make it computationally impractical to iterate through all possible partitions of inputs and outputs in a transaction. This is achieved by significantly increasing the numbers of inputs and outputs. The mathematical analysis involves Stirling numbers of the second kind, which determine the number of ways to partition a set of n objects into k non-empty subsets.
 
@@ -11,6 +11,6 @@ In summary, CashFusion leverages mathematical principles, such as combinatorics 
 #### More Information:
 
 [Do CoinJoins Really Require Equal Transaction Amounts for Privacy? Part One: CashFusion](https://bitcoinmagazine.com/culture/do-coinjoins-really-require-equal-transaction-amounts-for-privacy-part-one-cashfusion)
-[nalyzing the Combinatoric Math in CashFusion](https://read.cash/@jonald_fyookball/analyzing-the-combinatoric-math-in-cashfusion-29943fb7)
+[analyzing the Combinatoric Math in CashFusion](https://read.cash/@jonald_fyookball/analyzing-the-combinatoric-math-in-cashfusion-29943fb7)
 [More CashFusion Math](https://read.cash/@jonald_fyookball/more-cashfusion-math-1257bde7)
 [Is CashFusion Really Anonymous?](https://bubblerboy.medium.com/is-cashfusion-really-anonymous-352164a071c2)

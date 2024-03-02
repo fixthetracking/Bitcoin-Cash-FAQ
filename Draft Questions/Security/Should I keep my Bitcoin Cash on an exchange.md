@@ -4,6 +4,6 @@ Cryptocurrency exchanges have been known to use fractional reserves, meaning tha
 
 When you self custody, there is no intermediary between you and your money. Eliminating intermediaries was one of the foundational purposes of the idea of Bitcoin in the first place. Using intermediaries with cryptocurrency represents a return to the many problems that banking has caused.
 
-If you are inerested in trading Bitcoin Cash, you should also consider withdrawing your Bitcoin Cash from exchanges and instead speculate using self-custodial means. [BCH Bull](https://bchbull.com/) allows users to take either long positions (with leverage) or hedged positions on Bitcoin Cash against metals, fiat currencies, or other cryptocurrencies. This is all done with smart contracts on Bitcoin Cash using the [AnyHedge Protocol](https://anyhedge.com/).
+If you are interested in trading Bitcoin Cash, you should also consider withdrawing your Bitcoin Cash from exchanges and instead speculate using self-custodial means. [BCH Bull](https://bchbull.com/) allows users to take either long positions (with leverage) or hedged positions on Bitcoin Cash against metals, fiat currencies, or other cryptocurrencies. This is all done with smart contracts on Bitcoin Cash using the [AnyHedge Protocol](https://anyhedge.com/).
 
 Learn more about BCH Bull [here](https://bchfaq.com/knowledge-base/what-is-bch-bull/).

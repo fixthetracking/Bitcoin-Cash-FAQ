@@ -2,6 +2,6 @@
 
 In the context of cryptocurrency transactions, the risk of double spending occurs between the creation of a transaction and its inclusion in a block. The absence of a clear indicator of risk during this period poses a challenge, especially for merchants who lack real-time information about the transaction's legitimacy. DSPs serve as a digital warning system, providing an early signal of potential malicious activity.
 
-The primary achievement is the creation of a cryptographic message - actual proof that a double-spend has been attemped - that serves as an alert for potential harm to the network. This message allows the Bitcoin Cash network to identify and defend against various attacks, promising a shortened settlement time and reducing overall risk.
+The primary achievement is the creation of a cryptographic message - actual proof that a double-spend has been attempted - that serves as an alert for potential harm to the network. This message allows the Bitcoin Cash network to identify and defend against various attacks, promising a shortened settlement time and reducing overall risk.
 
 Learn more about Double-Spend Proofs and other Bitcoin Cash technical features in our [broad exploration of Bitcoin Cash upgrades](https://bchfaq.com/what-is-the-difference-between-bitcoin-and-bitcoin-cash-part-4/#bitcoin-cash-upgrades).

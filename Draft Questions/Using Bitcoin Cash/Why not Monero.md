@@ -2,7 +2,7 @@ While the Monero (XMR) community shares ideological similarities with the Bitcoi
 
 #### Inauditable & Increasing Supply:
 
-Monero's inaudible and increasing supply, while technically mathematically auditable, faces challenges in terms of user understanding. The complicated math involved may hinder broader adoption, especially when compared to the simplicity of Bitcoin Cash's fixed 21 million coin supply.
+Monero's practically inauditable and increasing supply, while technically mathematically auditable, faces challenges in terms of user understanding. The complicated math involved may hinder broader adoption, especially when compared to the simplicity of Bitcoin Cash's fixed 21 million coin supply.
 
 #### Regulatory Pressure:
 
