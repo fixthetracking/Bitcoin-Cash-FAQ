@@ -1,1 +1,0 @@
-# Will Bitcoin Cash eventually need a second layer?

@@ -1,0 +1,11 @@
+The divergence between Bitcoin (BTC) and Bitcoin Cash (BCH) becomes evident in their approaches to zero-confirmation transactions (0-conf). In the early days, Satoshi Nakamoto envisioned 0-conf as a viable option for peer-to-peer transactions, even suggesting scenarios like a [snack machine](https://bitcointalk.org/index.php?topic=423.msg3819#msg3819) confidently accepting instant payments. 
+
+However, BTC's trajectory has shifted away from emphasizing peer-to-peer transactions, and its constrained block space has led to extreme transaction fee escalations, prompting a move toward treating double-spending as a feature rather than a risk.
+
+BTC employs opt-in Replace-By-Fee (RBF), allowing users to flag transactions for potential replacement with higher fee ones. While beneficial for low-fee transactions struggling to get confirmed, RBF presents challenges for point-of-sale transactions, significantly diminishing BTC's cash-like attributes. The imminent arrival of [full-RBF by default](https://github.com/bitcoin/bitcoin/pull/28132) in BTC suggests a definitive rejection of 0-conf transactions.
+
+In contrast, Bitcoin Cash actively endorses 0-conf transactions, aligning with its objective to establish the most cash-like cryptocurrency. The reliability of 0-conf for instant purchases is ensured through effective scaling, consistently providing ample room in the next block for transactions. 
+
+To mitigate the potential for double-spending fraud, Bitcoin Cash employs [Double-Spend Proofs](https://documentation.cash/protocol/network/messages/dsproof-beta) (DSPs). These proofs involve nodes detecting attempted double-spends and transmitting messages to prevent fraudulent transactions. This functionality positions Bitcoin Cash as a seamless peer-to-peer cash solution in various retail settings, fostering confidence in finalizing transactions without waiting for confirmations. However, caution is advised in scenarios involving substantial transactions, where waiting for at least one confirmation is recommended.
+
+Learn more in our [deep dive into the differences between BTC and Bitcoin Cash](https://bchfaq.com/what-is-the-difference-between-bitcoin-and-bitcoin-cash-part-2/#0-conf-transaction-policies).

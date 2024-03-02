@@ -1,1 +1,1 @@
-# What is Bitcoin Verde?
+[Bitcoin Verde](https://bitcoinverde.org/) is a robust and reliable full-node implementation for the Bitcoin Cash network, boasting a unique Java-based codebase for enhanced security. Developed and maintained by the Software Verde, LLC team, it offers stability, fault tolerance, and efficient multithreaded performance supporting over 200 transactions per second. Suitable for mining and network validation, Bitcoin Verde aims to expand its capabilities by providing wallet and mining-pool modules in the future.

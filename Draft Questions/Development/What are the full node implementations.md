@@ -1,1 +1,0 @@
-# What are the full node implementations?

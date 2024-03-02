@@ -1,0 +1,7 @@
+Bitcoin Cash is limited to 21 million units. This fact has caused some concern that 21 millions units of value are not enough to serve as a global currency. After all, there are over 8 billion people in the world that would need to save and spend in Bitcoin Cash.
+
+Thankfully, each whole unit of Bitcoin Cash is divisible into 100 million sub-units called satoshis. That means there are technically 2.1 quadrillion units of value in the Bitcoin Cash network. If that were equally divided among the world's population, that would equate to 262,500 satoshis, or 0.002625 BCH, per person. 
+
+In such a scenario, the typical person would most likely not bother with accounting in whole BCH units and numbers with very small decimals. It is likely that a new paradigm would arise where a satoshi takes the place of a cent in our current USD paradigm. That would equate to 2,625.00 dollar-adjacent units of Bitcoin Cash per person, on average.
+
+Some believe that is still too few units to function for every person on Earth. Thus, there are efforts to increase the precision of Bitcoin Cash units into sub-satoshis. The [leading proposal](https://codeberg.org/bitcoincash/CHIP-SubSatoshi) aims to increase the precision of Bitcoin Cash units by adding three additional decimal places. That would result in 2,625,000.00 dollar-adjacent units of Bitcoin Cash per person, on average. This sub-satoshi solution seems adequate to address the currency needs for every person on Earth.

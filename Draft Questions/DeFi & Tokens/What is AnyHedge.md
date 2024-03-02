@@ -1,0 +1,9 @@
+[AnyHedge](https://anyhedge.com/) is a decentralized leverage trading platform on Bitcoin Cash, enabling users to take leveraged long positions or hedge their fiat value. It operates in a permissionless, non-custodial, and on-chain manner.
+
+AnyHedge facilitates easy integration for developers through its JavaScript library, documentation, and examples, operating on the UTXO model for scalability and enhanced privacy. Entrepreneurs can explore opportunities, such as adding on-chain futures or creating innovative applications. The platform supports non-custodial financial products on Bitcoin Cash.
+
+It offers a settlement service for easy implementation, but users can develop their own systems. AnyHedge caters to various use cases, including volatility protection, leveraged trading, yield earning, and stablecoin backing. It's open source, with optional settlement services.
+
+The technology is designed for currency exchanges, reducing custodial risk and operational costs. It provides unique financial products for exchanges, OTC desks, and decentralized exchanges. KYC is optional but supported for record-keeping. Legal as an open-source protocol, AnyHedge aims for global adoption, allowing developers to integrate it into exchanges, OTC desks, or other projects collaboratively or independently using public libraries.
+
+The platform enables users to lock in the dollar value of their Bitcoin Cash through smart contracts, offering a unique solution to market volatility without going off-chain. Users can easily experiment with an implementation of AnyHedge on [BCH Bull](https://bchbull.com/) by choosing a contract amount, an asset to go long against, a duration, and selecting up to 7.77x leverage, all on-chain. Alternatively, users can choose a specified period of time to hedge an amount of Bitcoin Cash denominated in USD, BTC, gold, silver or other assets. 

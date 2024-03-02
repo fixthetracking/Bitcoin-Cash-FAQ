@@ -1,1 +1,5 @@
-# Is Bitcoin Cash a store of value?
+While Bitcoin Cash has functioned as a useful way to store value for many people, it is not yet a store of value by the standards of [Austrian economics](https://mises.org/wire/cryptocurrency-money-store-value-or-medium-exchange). The same goes for all other cryptocurrencies.
+
+To function as a store of value, an asset must be able to hold value over time without depreciating. This property of an asset is technically metaphorical and incidental to first becoming a medium of exchange. Bitcoin Cash, along with every other cryptocurrency, has yet to become a medium of exchange in any meaningful sense.
+
+An asset can only become a medium of exchange by being the most marketable good. Proponents of Bitcoin Cash are focused on making it peer-to-peer cash for the entire world. This can be accomplished by ensuring that Bitcoin Cash is the most accessible, functional, and programmable value transfer system in existence. If that is accomplished, Bitcoin Cash may position itself to be more marketable than any other good. This in turn would lead to Bitcoin Cash becoming a medium of exchange and ultimately a store of value.

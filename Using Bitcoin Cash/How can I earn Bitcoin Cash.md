@@ -5,7 +5,6 @@ There are many ways to earn Bitcoin Cash. If you have a business, make sure to i
 
 * [Prompt.Cash](https://prompt.cash/)
 * [Blockonomics](https://bch.blockonomics.co/)
-* [PayButton](https://paybutton.org/#/)
 * [BitPay](https://bitpay.com/)
 * [GoCrypto](https://gocrypto.com/)
 * [Anypay](https://anypayx.com/)

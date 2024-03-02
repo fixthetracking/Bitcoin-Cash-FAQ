@@ -1,1 +1,0 @@
-# Is it easy to 51% attack Bitcoin Cash?

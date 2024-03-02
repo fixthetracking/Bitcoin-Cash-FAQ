@@ -1,0 +1,3 @@
+Bitcoin Cash initially follows a predefined inflationary schedule where new units are released as block subsidies to incentivize miners. The subsidy decreases over time through a halving mechanism, ultimately capping the total supply at 21 million BCH after several cycles spanning over a century. 
+
+While technically inflationary in the present phase, Bitcoin Cash can exhibit deflationary characteristics when its value rises due to increased demand surpassing its inflationary issuance. This can cause prices - in BCH terms - fall. This contrasts with national currencies, which are primarily inflationary, as central banks continuously print money, leading to the devaluation of each unit and a general increase in prices.

@@ -1,1 +1,0 @@
-# Why does Bitcoin Cash use hard forks to upgrade?

@@ -1,0 +1,11 @@
+Bitcoin Cash and BTC share the same SHA-256 mining infrastructure. As Bitcoin Cash's price is considerably lower than BTC's, the majority of hash power focuses on securing BTC rather than Bitcoin Cash, leading to the misconception that Bitcoin Cash is highly vulnerable to a "[51% attack](https://learnmeabitcoin.com/technical/51-attack)."
+
+A 51% attack occurs when the majority of hash power uses its rate to prevent new transactions from confirming or even reattempt previously confirmed blocks to undo transactions. While these attacks are concerning, their capabilities are limited, and they come with an opportunity cost for the attacker. Using a substantial amount of hash rate can be expensive, especially over extended periods. The true cost of a 51% attack is unknown, as it depends on how much hash power steps in to defend against it. Additionally, when the attack concludes, unconfirmed transactions can proceed as normal, making 51% attacks rare, as miners generally find more profits in honest mining.
+
+Despite Bitcoin Cash having a lower hash rate than BTC, it doesn't automatically face a 51% attack from BTC hash power. Many major mining pools mine both coins, utilizing switch mining to adjust hash rate ratios based on profitability. 
+
+Imagine the following scenario: An employee-owned mining interest owns a gold mine and a silver mine. The gold mine is doing extremely well and makes a lot of profit. The silver mine is much more modest and produces much less profit, but is still profitable overall. The mines have yet to be fully explored for their ore and their future value is undetermined. 
+
+It would be extremely unlikely for the employees at the gold mine to attack the operations at the silver mine. Attacking one would weaken both. Additionally, it would make it more difficult to attract investors, form trusting business relationships, and extract value in the future.
+
+In the current scenario, BTC is likened to the gold mine, and Bitcoin Cash to the silver mine. Similar to the employee-owned mining interest, miners secure both blockchains, making it nonsensical for the majority to attack a chain that contributes to their profits, even if those profits are smaller. Mining Bitcoin Cash serves as a hedge against uncertainties in future coin values, offering miners the potential for increased profits and security.

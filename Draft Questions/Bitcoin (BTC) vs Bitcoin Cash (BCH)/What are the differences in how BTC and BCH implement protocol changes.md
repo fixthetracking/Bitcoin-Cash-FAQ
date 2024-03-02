@@ -1,0 +1,9 @@
+Bitcoin (BTC) and Bitcoin Cash (BCH) have distinct approaches to implementing protocol changes, stemming from their unique governance structures. 
+
+BTC primarily relies on a single reference client, [Bitcoin Core](https://bitcoin.org/en/bitcoin-core/), managed by a [select group](https://crypto.news/bitcoin-core-has-only-5-developers-left-as-key-maintainer-departs/) acting as gatekeepers. [Bitcoin Improvement Proposals](https://en.bitcoin.it/wiki/Bitcoin_Improvement_Proposals) (BIPs) serves as a structured framework for proposing and implementing changes. It allows anyone to submit a BIP, undergoes community review and discussions, and aims for consensus through rough agreement. Bitcoin Core's development emphasizes stability but raises concerns about centralization and technical debt.
+
+On the other hand, Bitcoin Cash utilizes a more decentralized model. After its split from BTC, Bitcoin Cash originally inherited Bitcoin ABC as its reference client but evolved into a system without an official client. It employs [Cash Improvement Proposals](https://gitlab.com/im_uname/cash-improvement-proposals/-/blob/master/CHIPs.md) (CHIPs) for proposing and implementing changes, similar to BIPs. However, the process involves more collaboration among multiple node teams. Bitcoin Cash's approach fosters enhanced decentralization, but it may face challenges due to a dispersed developer pool, potentially slowing the implementation of desired improvements.
+
+These differences highlight the trade-offs between BTC's emphasis on stability and Bitcoin Cash's pursuit of decentralization in their respective paths of protocol evolution.
+
+Learn more in our [deep dive into the differences between BTC and Bitcoin Cash](https://bchfaq.com/what-is-the-difference-between-bitcoin-and-bitcoin-cash-part-3/#implementing-protocol-changes).

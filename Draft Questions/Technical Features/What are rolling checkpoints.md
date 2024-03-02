@@ -1,0 +1,9 @@
+Rolling checkpoints in the context of Bitcoin Cash refer to a security measure implemented to protect against deep reorganization attacks. Similar to Bitcoin (BTC), Bitcoin Cash (BCH) relies on Proof-of-Work (PoW) to determine the validity of the blockchain. However, due to the lower mining hashrate on Bitcoin Cash compared to Bitcoin, there is a theoretical possibility of a significant amount of hashpower executing a deep reorganization of the Bitcoin Cash blockchain, effectively replacing numerous blocks.
+
+To mitigate the risk of such deep reorg attacks, the widely used mining node implementation, Bitcoin Cash Node, employs rolling checkpoints. In this system, Bitcoin Cash blocks that have achieved at least 10 confirmations are considered final and irreversible by default. This means that even if an alternative chain with a higher proof of work is presented, blocks with a minimum of 10 confirmations will not be replaced.
+
+The use of rolling checkpoints enhances Bitcoin Cash's resilience against deep reorg attacks, making it highly secure against attempts to rewrite the blockchain history. However, it introduces a minimal risk of a chain split, where nodes may potentially disagree on the valid chain, leading to confusion within the network.
+
+It is noteworthy that some members of the Bitcoin Cash community advocate for the removal of rolling checkpoints when the hashrate of Bitcoin Cash becomes comparable to that of Bitcoin. This suggests that the implementation of rolling checkpoints is seen as a temporary measure to address the current hashrate discrepancy and ensure the security of the network.
+
+Learn more about rolling checkpoints and other aspects of Bitcoin Cash consensus mechanisms in our [deep-dive article](https://bchfaq.com/what-is-the-difference-between-bitcoin-and-bitcoin-cash-part-3/).
