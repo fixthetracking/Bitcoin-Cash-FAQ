@@ -1,3 +1,4 @@
+---
 Bitcoin Cash proponents prefer hard forks over soft forks for protocol upgrades, diverging from BTC's soft fork approach. Hard forks, despite posing an extremely small risk of accidental chain splits, provide a clean break from previous versions, ensuring all participants upgrade for continued participation, streamlining development and allowing for significant protocol changes to accommodate growth. This approach aligns with Bitcoin Cash's vision of scalability and streamlined development for a peer-to-peer electronic cash system.
 
 Most cryptocurrencies opt for hard forks as an upgrade method to avoid cumbersome workarounds for fundamental aspects. Hard forks acknowledge the imperfection of previous versions, fostering a healthy expectation of ongoing improvement, enabling advancements, and introducing new features for continuous progression.

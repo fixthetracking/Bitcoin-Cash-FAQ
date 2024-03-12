@@ -1,6 +1,4 @@
-# What is a Cash Improvement Proposal (CHIP)?
-
-
+---
 A Cash Improvement Proposal (CHIP) is a detailed process recommendation for achieving a positive change on the Bitcoin Cash network. A CHIP should include a full description of a specific change, including a summary, motivation, technical description, implementation costs and risks, test cases, evaluation of alternatives, security considerations, and more.
 
 Careful research and evaluation of risks and benefits for any proposed changes is key. A CHIP should also describe a clear and structured evaluation process with defined milestones and schedules to minimize conflicts and instability.

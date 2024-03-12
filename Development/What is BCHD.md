@@ -1,3 +1,4 @@
+---
 [BCHD](https://bchd.cash/) is a mature Bitcoin Cash protocol implementation written in Go, offering features like a fast-sync mode, gRPC API for seamless development, integrated indexing eliminating the need for separate servers, and support for client-side filtering. Tailored for application developers, BCHD aims to provide a feature-rich node implementation for Bitcoin Cash projects, emphasizing benefits like fast compilation times and simplified parallelism due to its Go programming language foundation. BCHD supports JSON-RPC alongside gRPC and is adaptable for various applications, including building next-gen SPV mobile wallets.
 
 NOTE: BCHD is not currently in consensus with the Bitcoin Cash Network. However, [ongoing development initiatives](https://bchd_flipstarter.opreturn.me/en) are underway to restore compatibility with the broader Bitcoin Cash infrastructure.
