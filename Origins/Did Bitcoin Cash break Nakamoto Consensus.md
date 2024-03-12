@@ -1,3 +1,4 @@
+---
 A frequently levied accusation aimed at tarnishing Bitcoin Cash's reputation alleges that it violated "Nakamoto Consensus" during the 2017 split from BTC, where BTC had more mining hashpower, implying that Bitcoin Cash cannot rightfully claim the title of the true Bitcoin. However, this claim is unfounded and arises from a misconception of Nakamoto Consensus.
 
 Nakamoto Consensus is the term coined for the transaction validation mechanism devised by Satoshi Nakamoto. In the case of Bitcoin Cash, transactions undergo confirmation into blocks through "Proof-of-Work," a process where specialized computers expend energy to solve a cryptographic puzzle. The fundamental principle of Nakamoto Consensus revolves around the "longest chain" rule. The chain with the greatest cumulative computational work invested, known as the longest chain, is deemed the valid one. This principle aids in establishing the most widely accepted version of the blockchain.

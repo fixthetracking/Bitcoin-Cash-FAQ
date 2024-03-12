@@ -1,6 +1,4 @@
-# What caused Bitcoin Cash and Bitcoin to split?
-
-
+---
 Bitcoin Cash (BCH) and Bitcoin (BTC) shared a history until August 1, 2017. That’s when a “hard fork” happened which deliberately caused a network split. A hard fork is simply a change in the rules of the network to either add new features or to fix a bug. Some people refer to hard forks as “upgrades” if they don’t have to lead to network splits.
 
 In this case, though, there was a longstanding disagreement over what network rules should be in place. Bitcoin had started to hit a scaling ceiling in 2015 and transaction fees were starting to creep up because of the congested network. Everyone agreed a solution was sorely needed. 
