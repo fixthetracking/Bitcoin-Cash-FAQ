@@ -1,3 +1,4 @@
+---
 The best answer is found in the pages of the original [Bitcoin whitepaper](https://bitcoincash.org/bitcoin.pdf), written by Satoshi Nakamoto. You are encouraged to read it. Below is a very brief summary of the technology.
 
 #### Blockchain

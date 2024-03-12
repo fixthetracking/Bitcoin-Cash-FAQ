@@ -1,6 +1,4 @@
-# How will Bitcoin Cash solve its volatility?
-
-
+---
 Volatility may or may not be a problem to be solved, depending on the use case. For example, many Bitcoin Cash users anticipate an increased value of their coins. To realize such hopes, volatility is a good thing those users embrace even though it includes the risk of Bitcoin Cash dropping in value. 
 
 For merchants who accept Bitcoin Cash in exchange for goods and services, volatility may be undesirable as it could negatively affect their bottom line if Bitcoin Cash drops in price. In either case, it is not up to the Bitcoin Cash protocol to “solve” volatility. 

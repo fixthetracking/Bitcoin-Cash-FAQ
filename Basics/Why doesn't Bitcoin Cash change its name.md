@@ -1,3 +1,4 @@
+---
 There are a few people out there who claim that if Bitcoin Cash would change its name, it would be treated as an equal among other cryptocurrencies. Such people claim that Bitcoin Cash is trying to "steal" the Bitcoin name and thus poses itself as a threat to BTC. 
 
 Bitcoin Cash is a continuation of the original Bitcoin project started by Satoshi Nakamoto and has every right to the Bitcoin name. Bitcoin Cash developers and enthusiasts generally have the same ethos that early Bitcoin fans had - to bring about financial revolution through an accessible, decentralized, and powerful blockchain. Indeed, many members of the Bitcoin Cash community are the very same people from the very early Bitcoin community, before there were any splits. In any case, the name has been in place for many years now. For better or for worse, the name of the coin will always be Bitcoin Cash.

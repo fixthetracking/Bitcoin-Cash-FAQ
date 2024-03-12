@@ -1,6 +1,4 @@
-# What’s the difference between Bitcoin and Bitcoin Cash?
-
-  
+---
 Bitcoin (BTC) and Bitcoin Cash (BCH) used to be one and the same until August 1, 2017. That’s when the Bitcoin network split and two separate coins were the result. At the moment of the split every owner of Bitcoin had the same amount of coins on both networks.
 
 Since that time BTC has retained a 1 MB “block size” (the space allowed for transactions every 10 minutes or so) even though transaction throughput has been maxed out for many years (about 300,000 transactions per day). The result is that BTC transactions can be quite expensive with the average transaction fee reaching as high as $50 at times of high demand. 
