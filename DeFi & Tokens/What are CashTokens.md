@@ -1,6 +1,4 @@
-# What are CashTokens?
-
-
+---
 [CashTokens](https://cashtokens.org/) are digital assets that can be created and used on the Bitcoin Cash network. Bitcoin Cash upgraded on May 15, 2023 to add token primitives directly in the consensus protocol. CashTokens can be issued by individuals, organizations, or decentralized applications. CashTokens inherit the same tamper-proof properties of Bitcoin Cash and are divided into two types: fungible and non-fungible.
 
 Fungible tokens are indistinguishable from all other units. They can be merged or divided in transactions, making them suitable for representing exchangeable assets like stocks, bonds, stablecoins, and more. Fungible tokens play a vital role in decentralized applications by representing on-chain or off-chain assets and enabling complex coordination tasks.

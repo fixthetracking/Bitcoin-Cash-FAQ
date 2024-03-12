@@ -1,3 +1,4 @@
+---
 [TapSwap](https://tapswap.cash/) is a pioneering non-custodial marketplace that emerged as a leading NFT-trading platform on Bitcoin Cash following the 2023 CashTokens upgrade. 
 
 Facilitating the trading of both fungible and non-fungible tokens, TapSwap operates seamlessly on the Bitcoin Cash blockchain, showcasing its efficiency. Sellers benefit from flexibility in listing tokens at chosen prices, while buyers enjoy a user-friendly experience, with only a minimal platform fee upon purchase. The platform connects with users' wallets through Wallet Connect V2 or Paytaca’s Chrome extension, streamlining the trading process. With a transparent fee structure of 3% per completed trade and negligible blockchain fees, TapSwap enhances accessibility and affordability. 

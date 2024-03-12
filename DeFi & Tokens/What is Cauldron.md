@@ -1,3 +1,4 @@
+---
 [Cauldron](https://www.cauldron.quest/) is an open-source smart contract designed for liquidity provision and CashToken trading on the Bitcoin Cash network, emphasizing non-custodial automated liquidity protocols with a focus on transparency and user accessibility. 
 
 Developed by [Riften Labs](https://twitter.com/RiftenLabs), Cauldron operates through its interface, Cauldron DEX, where users can create micro-pools to earn yields from the liquidity they provide. Liquidity providers (LPs) retain full ownership of their pools and receive 100% of the liquidity provider fees (currently set at 0.3% per swap). 

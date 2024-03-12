@@ -1,3 +1,4 @@
+---
 [FURU tokens](https://nfts.bch.guru/furunomics) are fungible [CashTokens](https://cashtokens.org/) created on Bitcoin Cash and distributed exclusively through airdrops to [BCH Guru](https://bch.guru/) NFT holders. These tokens offer free play access to the [BCH Guru Price Prediction Game](https://beta.bch.guru/) and have distinct features, including a fixed supply and community ownership after distribution.
 
 To acquire FURU tokens, BCH Guru NFT holders qualify for airdrops based on the strength and composition of their NFT collections, with potential multiplier bonuses. The tokens have zero initial monetary value, serving as free-play access to the game, but their value on secondary markets will depend on community demand.

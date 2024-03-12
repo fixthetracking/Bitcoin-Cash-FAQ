@@ -1,6 +1,4 @@
-# Does Bitcoin Cash have DeFi?
-
-
+---
 Yes. Since the split from BTC, Bitcoin Cash has made many improvements to the Bitcoin Script virtual machine. These improvements have made DeFi applications more and more feasible. The CashTokens upgrade on May 15, 2023 enables DeFi capabilities rivaling those of EVM chains, though development is only just beginning. A sample of some DeFi applications is given below. More will be developed over time.
 
 [Flipstarter](https://flipstarter.cash/) enables crowdfunding through a smart contract. Campaign supporters can sign a transaction spending an amount once a certain threshold is met. When the campaign reaches its goal, all the pledge transactions are spent, sending the funds to the originator of the Flipstarter. If the goal is not met, the transactions cannot be spent. Campaign supporters can remove their pledge at any time if desired.

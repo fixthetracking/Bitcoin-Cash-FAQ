@@ -1,3 +1,4 @@
+---
 [General Protocols](https://generalprotocols.com/) is a company established in 2019 that focuses on developing permissionless, trustless, and borderless financial solutions for the global community. 
 
 Positioned as a leading developer in the Bitcoin Cash ecosystem and at the forefront of UTXO blockchain development, General Protocols aims to build the future of programmable money. They emphasize the significance of smart contracts on programmable money, envisioning a multi-trillion dollar shift towards non-custodial and trustless networks. Committed to open-source protocols, the company empowers the next generation of innovators, believing in the transformative potential of technologies that can impact billions of lives. 

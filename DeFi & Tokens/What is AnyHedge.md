@@ -1,3 +1,4 @@
+---
 [AnyHedge](https://anyhedge.com/) is a decentralized leverage trading platform on Bitcoin Cash, enabling users to take leveraged long positions or hedge their fiat value. It operates in a permissionless, non-custodial, and on-chain manner.
 
 AnyHedge facilitates easy integration for developers through its JavaScript library, documentation, and examples, operating on the UTXO model for scalability and enhanced privacy. Entrepreneurs can explore opportunities, such as adding on-chain futures or creating innovative applications. The platform supports non-custodial financial products on Bitcoin Cash.
