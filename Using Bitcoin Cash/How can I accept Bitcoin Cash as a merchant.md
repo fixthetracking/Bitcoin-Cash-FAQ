@@ -1,3 +1,4 @@
+---
 There are many payment gateways that simplify accepting Bitcoin Cash, including:
 
 * [Prompt.Cash](https://prompt.cash/)

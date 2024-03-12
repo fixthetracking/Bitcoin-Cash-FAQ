@@ -1,3 +1,4 @@
+---
 While the Monero (XMR) community shares ideological similarities with the Bitcoin Cash community, emphasizing privacy and fungibility, there are notable trade-offs that make global adoption of Monero less likely and position it differently in the competitive landscape:
 
 #### Inauditable & Increasing Supply:

@@ -1,3 +1,4 @@
+---
 While Nano has some appealing features, it faces several challenges that may hinder its competitiveness as a significant competitor to Bitcoin Cash. Here are key points explaining why Nano might not be a strong contender:
 
 #### Zero Fees Trade-off: 

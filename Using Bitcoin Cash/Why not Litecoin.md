@@ -1,3 +1,4 @@
+---
 Litecoin faces several challenges that may limit its competitiveness as a significant alternative to Bitcoin Cash. Here are key points explaining why Litecoin might not be a strong competitor:
 
 #### Nonsensical Slogan: 

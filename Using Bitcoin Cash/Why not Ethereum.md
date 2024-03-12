@@ -1,3 +1,4 @@
+---
 Ethereum, while pioneering the concept of running any computer program on a blockchain, faces several challenges that make it less competitive as a peer-to-peer electronic cash system compared to Bitcoin Cash. Here's why Ethereum might not be an ideal competitor:
 
 #### Scaling Limitations: 

@@ -1,6 +1,4 @@
-# How can Bitcoin Cash be used as cash if I have to wait 10 minutes or more for a confirmation?
-
-
+---
 With Bitcoin Cash you do not have to wait for a confirmation for the vast majority of transactions. 
 
 Bitcoin Cash transactions are confirmed in blocks of transactions that get added to the blockchain every ten minutes, on average. When a transaction is confirmed in a block, it is proof that a significant amount of energy has been expended to include that transaction. This is a process called Proof-of-Work (PoW). 

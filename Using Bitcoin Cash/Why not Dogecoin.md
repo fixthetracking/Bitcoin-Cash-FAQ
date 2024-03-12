@@ -1,3 +1,4 @@
+---
 While Dogecoin has played a crucial role in making cryptocurrency more approachable and attracting newcomers to the space, it faces challenges as a viable competitor to Bitcoin Cash. The lighthearted and charitable spirit of the Dogecoin community, which initially garnered attention, may not be sustainable as the network scales up in both technical and financial investment.
 
 Several reasons highlight why Dogecoin might not be a strong competitor to Bitcoin Cash:

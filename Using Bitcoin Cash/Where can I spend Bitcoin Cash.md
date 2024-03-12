@@ -1,6 +1,4 @@
-# Where can I spend Bitcoin Cash?
-
-
+---
 You can spend your Bitcoin Cash at thousands of merchants and businesses around the world. Here are some tools to help you find them. 
 
 * [BitPay directory](https://bitpay.com/directory/): View all the merchants that accept crypto payments through BitPay. Nearly all of them accept Bitcoin Cash. 
