@@ -1,6 +1,4 @@
-# Why is r/btc so negative about BTC?
-
-
+---
 [r/btc](https://www.reddit.com/r/btc) is a subreddit dedicated to uncensored discussion about any Bitcoin-related topic. The two biggest subreddits where BTC is discussed (r/bitcoin and r/cryptocurrency) are heavily censored and most discussion critical of BTC is forbidden. Since r/btc is a very active Bitcoin-related subreddit where discussion critical of BTC is allowed, we should not be surprised to see a fair amount of such discussion.
 
 A lot of the BTC negativity stems directly from the frustration of being unfairly censored or banned on other subreddits. Other posts critical of BTC result from the difficulty of using BTC as a currency (due to its small block size and expensive transaction fees).
