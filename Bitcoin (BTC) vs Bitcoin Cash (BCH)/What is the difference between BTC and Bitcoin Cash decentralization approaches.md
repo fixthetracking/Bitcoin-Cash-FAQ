@@ -1,3 +1,4 @@
+---
 Decentralization is a core principle for both Bitcoin (BTC) and Bitcoin Cash (BCH), rooted in Satoshi Nakamoto's vision of open-source software and community participation. However, the two cryptocurrencies exhibit nuanced differences in their approaches to decentralization.
 
 For BTC, the decentralization narrative took a distinctive turn during the block size wars. Some developers and community members opposed a block size increase, arguing for a small block size to enable regular users to sustain full nodes independently. The emphasis was on users serving as a check on miners. This perspective persists in BTC, advocating for regular users to download the blockchain and run full nodes, although this is not widely adopted in practice.

@@ -1,3 +1,4 @@
+---
 Bitcoin (BTC) and Bitcoin Cash (BCH) have diverged in many ways through upgrades on each chain, particularly through the numerous upgrades on Bitcoin Cash. The following categories illustrate many of the key divergences.
 
 #### Block Size and Scalability:

@@ -1,3 +1,4 @@
+---
 The divergence between Bitcoin (BTC) and Bitcoin Cash (BCH) becomes evident in their approaches to zero-confirmation transactions (0-conf). In the early days, Satoshi Nakamoto envisioned 0-conf as a viable option for peer-to-peer transactions, even suggesting scenarios like a [snack machine](https://bitcointalk.org/index.php?topic=423.msg3819#msg3819) confidently accepting instant payments. 
 
 However, BTC's trajectory has shifted away from emphasizing peer-to-peer transactions, and its constrained block space has led to extreme transaction fee escalations, prompting a move toward treating double-spending as a feature rather than a risk.

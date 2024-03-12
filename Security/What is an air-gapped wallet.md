@@ -1,3 +1,4 @@
+---
 An air-gapped wallet refers to a cryptocurrency wallet that operates entirely offline and is never connected to the internet, providing an additional layer of security against online threats. The term "air-gapped" implies that the wallet is physically isolated from any network or internet connection. Here are key features and characteristics of air-gapped wallets:
 
 #### Offline Operation:

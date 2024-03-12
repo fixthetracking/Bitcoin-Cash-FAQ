@@ -1,3 +1,4 @@
+---
 All reputable Bitcoin Cash wallets will give you the option (sometimes requirement) of writing down your wallet seed phrase. A wallet seed phrase is an ordered list of 12 or more ordinary words that can be used to reconstruct your entire Bitcoin Cash wallet and its history.
 
 Writing down your wallet seed phrase is a crucial step in securing your Bitcoin Cash assets. Here are several reasons why it's important:

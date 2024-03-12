@@ -1,4 +1,4 @@
-
+---
 In the context of cryptocurrency wallet software, "open source" refers to the nature of the software's development and distribution. An open-source wallet is built on the principles of transparency, collaboration, and accessibility. Here are the key characteristics of open-source cryptocurrency wallet software:
 
 #### Source Code Accessibility:

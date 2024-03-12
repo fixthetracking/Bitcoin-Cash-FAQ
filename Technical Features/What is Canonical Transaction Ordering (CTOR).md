@@ -1,3 +1,4 @@
+---
 [Canonical Transaction Ordering](https://youtu.be/GYEZ52WVKEI?si=Gu2zt6dARMJ2gKIN) (CTOR) is a consensus change that was introduced in 2018, addressing the lack of a standardized protocol for [organizing transactions](https://upgradespecs.bitcoincashnode.org/2018-nov-upgrade/#canonical-transaction-order) within a block. Before the implementation of CTOR, the ordering of transactions in a block varied, leading to different approaches. The introduction of CTOR brought about specific rules for [transaction ordering](https://www.reddit.com/r/btc/comments/9ehll3/a_technical_dive_into_ctor/), establishing a consistent and systematic protocol for organizing transactions.
 
 Key points about Canonical Transaction Ordering (CTOR) include:

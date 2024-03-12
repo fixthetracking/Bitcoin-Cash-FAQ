@@ -1,3 +1,4 @@
+---
 Mining, specifically SHA-256 mining, is the process of adding new transactions to a blockchain, crucial for its security and maintaining a trustworthy digital ledger. Key aspects of SHA-256 mining include:
 
 #### Hash Functions:

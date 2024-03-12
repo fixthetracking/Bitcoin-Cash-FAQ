@@ -1,3 +1,4 @@
+---
 [Schnorr Signatures](https://upgradespecs.bitcoincashnode.org/2019-05-15-schnorr/), integrated into Bitcoin Cash in 2019, represent a cryptographic signature scheme used in both single- and multi-signature transaction types. This signature scheme serves as an efficient and versatile alternative to the traditional ECDSA (Elliptic Curve Digital Signature Algorithm), offering several advantages.
 
 Key features of Schnorr Signatures include:

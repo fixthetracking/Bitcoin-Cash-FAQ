@@ -1,3 +1,4 @@
+---
 Bitcoin (BTC) and Bitcoin Cash (BCH) have diverged in their visions since they split from each other. In the original Bitcoin whitepaper, Satoshi Nakamoto envisioned Bitcoin as a "peer-to-peer electronic cash system", emphasizing its potential as a practical digital currency for instant global transactions without scalability limitations. 
 
 However, over the years, BTC has shifted its narrative towards being "digital gold". This transformation focuses on BTC as a rare digital asset with properties immune to counterfeiting, prioritizing its role as a store of value over a medium of exchange. The development roadmap for BTC has seen infrequent updates, with a significant emphasis on enhancing the Lightning Network for off-chain transactions, aiming to attract institutional investments and a broader user base.

@@ -1,1 +1,2 @@
+---
 [Stack Wallet](https://stackwallet.com/) is a multi-coin wallet that supports Bitcoin Cash. It is open source (thus auditable by anyone) and available for [Android](https://play.google.com/store/apps/details?id=com.cypherstack.stackwallet) and [iOS](https://apps.apple.com/us/app/stack-wallet-by-cypher-stack/id1634811534).

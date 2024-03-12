@@ -1,3 +1,4 @@
+---
 In comparing Bitcoin (BTC) and Bitcoin Cash (BCH) as currencies, they must be compared in the context of several key properties of money. 
 
 Fungibility, the property that each unit of the currency is interchangeable and identical, poses a challenge for BTC due to [traceability](https://en.wikipedia.org/wiki/Blockchain_analysis) concerns. The transparency of BTC's blockchain, along with the lack of affordable privacy options, may impact fungibility, especially when certain transactions face discouragement or penalties. Bitcoin Cash, on the other hand, distinguishes itself by maintaining fungibility even for "tainted" UTXOs, thanks to extreme cost-effectiveness and privacy-enhancing solutions like [CashFusion](https://cashfusion.org/).

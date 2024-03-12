@@ -1,3 +1,4 @@
+---
 Bitcoin (BTC) employs the [CoinJoin](https://en.bitcoin.it/wiki/CoinJoin) method as one of its primary privacy-enhancing techniques. CoinJoin involves creating large transactions that combine inputs from multiple users, generating multiple equal outputs to obscure the linkage between specific outputs and participants. Popular wallets like Wasabi, Samourai, and Trezor Suite offer CoinJoin functionality on BTC. 
 
 However, a significant drawback is the cost associated with transaction fees due to BTC's 1 MB block size restriction, leading to network congestion. Transaction fees on BTC can range from several dollars to over $50 during periods of high network activity. The anonymity set, which influences the privacy level, may be limited, and increasing it through additional CoinJoin rounds may be cost-prohibitive.

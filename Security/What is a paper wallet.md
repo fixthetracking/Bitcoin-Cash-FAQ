@@ -1,3 +1,4 @@
+---
 A paper wallet is a physical document that contains the necessary information for storing and managing cryptocurrency, typically in the form of a public address for receiving funds and a private key for spending or transferring those funds. Here are the key features and characteristics of a paper wallet:
 
 #### Physical Document:

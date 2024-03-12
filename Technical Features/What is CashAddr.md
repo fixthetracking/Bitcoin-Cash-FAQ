@@ -1,3 +1,4 @@
+---
 [CashAddr](https://reference.cash/protocol/blockchain/encoding/cashaddr/) is an address format introduced by Bitcoin Cash in 2018 to address confusion with the legacy address encoding used by BTC. The key features of CashAddr include:
 
 #### Distinct Format:

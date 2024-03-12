@@ -1,3 +1,4 @@
+---
 An oracle in the context of Bitcoin Cash, refers to a mechanism that provides trustworthy external information, often used in smart contracts to execute decisions based on real-world data. The challenge arises in decentralized finance (DeFi) when decisions need verification and historical chain data verification becomes essential for all participants in the long term.
 
 In Bitcoin Cash, the implementation of certain opcodes, such as [OP_CHECKDATASIG](https://upgradespecs.bitcoincashnode.org/op_checkdatasig/) and OP_CHECKDATASIGVERIFY, has facilitated the creation of oracles. These opcodes enable the validation of messages from external sources on the blockchain. The term "Oracle" originates from the Latin word for truth-sayer, emphasizing its role as a trusted source of truth for decentralized applications.

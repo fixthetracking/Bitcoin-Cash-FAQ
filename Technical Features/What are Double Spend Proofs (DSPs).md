@@ -1,3 +1,4 @@
+---
 [Double-Spend Proofs](https://read.cash/@TomZ/double-spend-proofs-phase-2-59b9e3fd) (DSPs) are a crucial defense mechanism within the Bitcoin Cash network, designed to protect against attempts to send funds to a merchant and simultaneously send the same funds back to the sender — a fraudulent act known as double spending. The fundamental idea is to prevent a user from evading payment while the merchant remains under the impression that the transaction has been settled.
 
 In the context of cryptocurrency transactions, the risk of double spending occurs between the creation of a transaction and its inclusion in a block. The absence of a clear indicator of risk during this period poses a challenge, especially for merchants who lack real-time information about the transaction's legitimacy. DSPs serve as a digital warning system, providing an early signal of potential malicious activity.

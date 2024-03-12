@@ -1,3 +1,4 @@
+---
 The funding models for Bitcoin (BTC) and Bitcoin Cash (BCH) illustrate distinct approaches in sustaining and developing their respective blockchains. 
 
 In the early days, Bitcoin's protocol development relied on voluntary contributions, with the establishment of the [Bitcoin Foundation](https://en.wikipedia.org/wiki/Bitcoin_Foundation) in 2012 seeking donations from the community and Bitcoin-related businesses. The landscape shifted in 2014 with the founding of Blockstream, a for-profit company specializing in blockchain-related products. 

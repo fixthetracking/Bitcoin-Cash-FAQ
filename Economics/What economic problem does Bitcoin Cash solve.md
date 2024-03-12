@@ -1,3 +1,4 @@
+---
 Bitcoin Cash addresses several economic problems, with some of the key issues it aims to solve including:
 
 #### Decentralization and Trust: 

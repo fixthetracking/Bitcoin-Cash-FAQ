@@ -1,3 +1,4 @@
+---
 Bitcoin (BTC) has traditionally resisted native DeFi options due to the predominant view that such features conflict with BTC's fundamental store-of-value characteristic. Developers on the BTC network have shown minimal initiative in enabling DeFi functionalities directly on the chain. The BTC blockchain currently lacks a dedicated DeFi infrastructure, and the most optimistic scenario involves using cross-chain protocols or wrapped BTC on Ethereum Virtual Machine (EVM) chains. The prospect of native BTC DeFi faces uncertainty, lacking interest from both users and developers.
 
 Bitcoin Cash, in contrast, has witnessed growing interest in DeFi options among users and developers. Although delays were initially faced due to community distractions and challenges related to the direction of development, recent years have seen significant progress. 

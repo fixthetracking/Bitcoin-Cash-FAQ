@@ -1,3 +1,4 @@
+---
 The nuanced dynamics of hard forks and soft forks tend to come up during protocol upgrades. Hard forks relax protocol rules, while soft forks tighten them. The key distinction lies in compatibility – soft forks are backward-compatible, allowing both older and updated nodes to participate, while hard forks are backward-incompatible, excluding non-upgraded nodes.
 
 Bitcoin (BTC) has firmly adhered to the [soft fork tradition](https://blog.bitmex.com/a-complete-history-of-bitcoins-consensus-forks-2022-update/) for over a decade, prioritizing network stability and avoiding consensus splits. This dogma ensures ongoing participation of older nodes but introduces challenges, including the existence of "zombie nodes" relaying information without a full understanding, and the accumulation of technical debt, complicating future upgrades.

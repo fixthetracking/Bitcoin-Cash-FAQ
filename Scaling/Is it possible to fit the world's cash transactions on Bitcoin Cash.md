@@ -1,3 +1,4 @@
+---
 Bitcoin Cash proponents believe that eventually Bitcoin Cash will be able to handle the financial transactions of the entire world. However, there is a lot of work to be done towards that goal.
 
 ### Theory:

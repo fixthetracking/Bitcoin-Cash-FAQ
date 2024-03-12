@@ -1,3 +1,4 @@
+---
 The modern world is accustomed to inflationary currencies, along with their continual issuance and the rising prices that they bring. Many people are under the mistaken belief that economic growth requires inflationary currencies and thus do not believe that the modern world economy can function with a deflationary currency like Bitcoin Cash as a de facto global currency. The common fear is that, if prices continually fall in BCH terms, nobody would ever spend their BCH, thus the economy would be ruined. This line of thinking is erroneous for several reasons, including the following:
 
 #### Economic Growth:

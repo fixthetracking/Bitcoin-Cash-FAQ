@@ -1,3 +1,4 @@
+---
 Hot wallets and cold wallets are two categories of cryptocurrency wallets that differ in terms of their connection to the internet and, consequently, their level of security.
 
 ### Hot Wallets:

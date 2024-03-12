@@ -1,3 +1,4 @@
+---
 Bitcoin (BTC) and Bitcoin Cash (BCH) have distinct approaches to implementing protocol changes, stemming from their unique governance structures. 
 
 BTC primarily relies on a single reference client, [Bitcoin Core](https://bitcoin.org/en/bitcoin-core/), managed by a [select group](https://crypto.news/bitcoin-core-has-only-5-developers-left-as-key-maintainer-departs/) acting as gatekeepers. [Bitcoin Improvement Proposals](https://en.bitcoin.it/wiki/Bitcoin_Improvement_Proposals) (BIPs) serves as a structured framework for proposing and implementing changes. It allows anyone to submit a BIP, undergoes community review and discussions, and aims for consensus through rough agreement. Bitcoin Core's development emphasizes stability but raises concerns about centralization and technical debt.

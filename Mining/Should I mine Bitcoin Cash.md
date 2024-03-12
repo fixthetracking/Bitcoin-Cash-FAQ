@@ -1,3 +1,4 @@
+---
 Mining on Bitcoin Cash or any other cryptocurrency involves complex factors such as equipment costs, electricity pricing, warehousing, and market competition. Success in mining may take years to see a return on investment (ROI), and predicting coin prices and competition is challenging, if not impossible. Larger investments increase the likelihood of success, but individual miners face tough competition from large mining companies investing millions in operations. 
 
 [Cloud mining](https://www.investopedia.com/terms/c/cloud-mining.asp), leasing hash power from a third-party provider, is an alternative, but profitability and contract terms should be carefully evaluated to avoid scams. Individual miners should be aware that success in mining is not guaranteed and involves significant uncertainties.

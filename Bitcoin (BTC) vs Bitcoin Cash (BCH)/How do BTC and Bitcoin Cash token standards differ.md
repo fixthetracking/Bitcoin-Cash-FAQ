@@ -1,3 +1,4 @@
+---
 Bitcoin (BTC), historically resistant to native token standards on its base layer, initially limited token functionality due to restrictions on adding arbitrary data to the blockchain. While token schemes have emerged on BTC's Lightning Network, their adoption faces challenges related to liquidity and routing.
 
 The [Ordinals](https://docs.ordinals.com/introduction.html) phenomenon, leveraging the SegWit and Taproot upgrades, introduced a novel token layer to BTC. Ordinals assign unique identifiers to satoshis in the order they were mined, with attached inscriptions storing data. However, these tokens are not native to the BTC base layer, relying on third-party indexers for validation, sparking debates about network purpose, congestion, and security vulnerabilities.

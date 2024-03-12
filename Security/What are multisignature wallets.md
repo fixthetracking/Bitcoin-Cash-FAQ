@@ -1,3 +1,4 @@
+---
 Multisignature wallets, often abbreviated as multisig wallets, are a type of cryptocurrency wallet that requires multiple private keys to authorize a transaction. This adds an extra layer of security compared to traditional single-signature wallets, where only one private key is needed to access and control the funds.
 
 In a multisig setup, the wallet is associated with multiple sets of public keys, and a predefined number of the matching private keys are required to sign a transaction for it to be considered valid. The configuration is often denoted as "m-of-n," where "m" represents the minimum number of signatures required, and "n" is the total number of public keys associated with the wallet.

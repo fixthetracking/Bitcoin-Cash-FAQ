@@ -1,3 +1,4 @@
+---
 Bitcoin Cash mining, like all cryptocurrency mining, consumes a significant amount of energy, prompting concerns about environmental impact. However, there are key factors to consider:
 
 #### Green Energy: 

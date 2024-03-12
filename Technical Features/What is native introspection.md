@@ -1,3 +1,4 @@
+---
 [Native introspection opcodes](https://gitlab.com/GeneralProtocols/research/chips/-/blob/master/CHIP-2021-02-Add-Native-Introspection-Opcodes.md) were introduced to the Bitcoin Cash protocol in 2022, enabling more efficient access to essential details about the current transaction within smart contracts. This native introspection capability allows Bitcoin Cash contracts to access information such as output values and recipients without imposing additional costs on transaction validation. The implementation of native introspection opcodes also plays a crucial role in reducing the size of covenant transactions, leading to more streamlined and cost-effective smart contract execution.
 
 Key points about Native Introspection:

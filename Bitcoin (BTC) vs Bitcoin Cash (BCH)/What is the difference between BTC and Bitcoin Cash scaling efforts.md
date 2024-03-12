@@ -1,3 +1,4 @@
+---
 Bitcoin (BTC) and Bitcoin Cash (BCH) differ fundamentally in their approaches to scalability. 
 
 BTC retained a 1 MB block size limit and implemented Segregated Witness (SegWit) to address scalability issues. SegWit, introduced in 2017, separates signature data from transactions and provides a block space discount, effectively increasing the block size to around 1.8 MB. However, BTC's transaction capacity remains limited, maxing out at approximately 8 transactions per second, leading to high fees during network congestion. BTC's focus on a 1 MB block size, while ensuring a predictable blockchain size, comes with limitations in transaction throughput and cost, prompting users to consider the trade-offs based on their specific needs.

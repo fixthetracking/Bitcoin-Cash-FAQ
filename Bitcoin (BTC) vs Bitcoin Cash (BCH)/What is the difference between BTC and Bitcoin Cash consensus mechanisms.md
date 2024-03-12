@@ -1,3 +1,4 @@
+---
 Bitcoin (BTC) and Bitcoin Cash (BCH) share an almost identical consensus mechanism rooted in the robust SHA-256 mining algorithm. Miners in both ecosystems dynamically switch between SHA-256 coins to maximize profitability. However, a single significant difference in their consensus mechanisms sets them on separate paths within the realm of mining and consensus.
 
 In the [mining process](https://learnmeabitcoin.com/technical/mining), SHA-256 stands for "Secure Hash Algorithm 256-bit," a cryptographic hash function essential for Proof of Work (PoW) consensus. Miners compete to solve a mathematical puzzle using specialized computers, aiming to add a new block of transactions to the blockchain. The process involves finding a specific nonce that, when hashed with all other block data, meets certain criteria, making the resulting hash computationally expensive and time-consuming to alter.

@@ -1,3 +1,4 @@
+---
 A hardware wallet is a physical device designed to provide a secure and offline storage solution for cryptocurrency private keys. It is considered one of the most secure methods for storing cryptocurrencies. Here are the key features and characteristics of a hardware wallet:
 
 #### Physical Device:

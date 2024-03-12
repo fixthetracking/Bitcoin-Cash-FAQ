@@ -1,3 +1,4 @@
+---
 Bitcoin Cash is limited to 21 million units. This fact has caused some concern that 21 millions units of value are not enough to serve as a global currency. After all, there are over 8 billion people in the world that would need to save and spend in Bitcoin Cash.
 
 Thankfully, each whole unit of Bitcoin Cash is divisible into 100 million sub-units called satoshis. That means there are technically 2.1 quadrillion units of value in the Bitcoin Cash network. If that were equally divided among the world's population, that would equate to 262,500 satoshis, or 0.002625 BCH, per person. 

@@ -1,3 +1,4 @@
+---
 ### Before the 2017 BTC/Bitcoin Cash Split:
 
 [OP_RETURN](https://learnmeabitcoin.com/technical/nulldata) has been a crucial feature since the early days of Bitcoin, allowing users to store data on the blockchain. From the initial stages, users have always found ways to insert arbitrary data into Bitcoin transactions. Some community members opposed the idea of storing non-transaction-specific data in the Bitcoin blockchain. To address this, OP_RETURN emerged as a [compromise](https://blog.bitmex.com/dapps-or-only-bitcoin-transactions-the-2014-debate/). This opcode designates an output as provably unspendable, enabling the insertion of arbitrary data into transactions while allowing nodes to prune the data if desired.

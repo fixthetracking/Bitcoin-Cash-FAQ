@@ -1,3 +1,4 @@
+---
 Bitcoin Cash does not have a hard limit on the block size. However, Bitcoin Cash does have an Excessive Block size limit (EB) that effectively functions as a soft limit. This EB is coordinated through consensus among the node implementations and those who run them. 
 
 The current EB is set to 32 MB. If there are any propagated blocks larger than 32 MB, they will be ignored by a majority of miners and other nodes. Assuming an average transaction size of 400 bytes, a 32 MB block size is large enough to fit 80,000 transactions. That could allow for over 11 million transactions per day - enough to include all transaction demand on BTC, ETH, LTC, and Doge. 

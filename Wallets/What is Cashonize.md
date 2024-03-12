@@ -1,1 +1,2 @@
+---
 [Cashonize](https://cashonize.com/) is a Bitcoin Cash web wallet. Cashonize offers support for CashTokens, the wallet connect standard, and the BCMR metadata standard. Cashonize users can easily create new CashTokens in the wallet app.

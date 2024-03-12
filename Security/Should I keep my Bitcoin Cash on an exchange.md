@@ -1,3 +1,4 @@
+---
 If you are interested in truly using Bitcoin Cash, you should not keep Bitcoin Cash on an exchange.
 
 Cryptocurrency exchanges have been known to use fractional reserves, meaning that they hold fewer coins in their reserves than their customers are supposed to own. This can cause big problems when many customers want to withdraw their coins. Several exchanges have become insolvent due to such issues and many customers have lost everything they thought they owned.
