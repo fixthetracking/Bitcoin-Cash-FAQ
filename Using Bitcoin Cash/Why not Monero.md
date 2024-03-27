@@ -11,7 +11,7 @@ Monero has faced significant regulatory pressure, leading to its delisting from 
 
 #### Global Scalability:
 
-Monero's obfuscated transactions prevent blockchain pruning, limiting its scalability for global use with a large number of running nodes. This challenges its ability to achieve decentralization on a large scale.
+Monero's obfuscated transactions prevent blockchain pruning, limiting its scalability for global use with a large number of running nodes. Additionally, Monero transaction sizes are quite large, reducing efficiency. These facts challenge its ability to achieve decentralization on a large scale.
 
 #### Lack of DeFi:
 

@@ -3,7 +3,7 @@ The question of why not use BTC's Lightning Network instead of Bitcoin Cash is m
 
 #### Realization of Limitations: 
 
-Large portions of the Bitcoin (BTC) community have come to realize that the Lightning Network, often presented as a panacea solution for high on-chain fees and payment reliability issues, isn't the bulletproof payments solution they expected. This realization has led some to explore other scaling "solutions" such as Fedimint, Coinpools, or Ark.
+Large portions of the Bitcoin (BTC) community have come to [realize](https://protos.com/critics-claim-buggy-bitcoin-lightning-network-is-slowly-dying/) that the Lightning Network, often presented as a panacea solution for high on-chain fees and payment reliability issues, isn't the bulletproof payments solution they expected. This realization has led some to explore other scaling "solutions" such as Fedimint, Coinpools, or Ark.
 
 #### Censorship and Lack of Open Discussion: 
 
