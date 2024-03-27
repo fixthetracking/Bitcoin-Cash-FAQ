@@ -1,5 +1,5 @@
 ---
-DASH functions well in the peer-to-peer cash space and works very well as a currency. There are some concerns, however, about its origins, governance systems, and overall utility.
+DASH is a contender in the peer-to-peer cash space and works very well as a currency. There are some concerns, however, about its origins, governance systems, and overall utility.
 
 #### Fastmine:
 
