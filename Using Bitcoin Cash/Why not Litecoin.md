@@ -21,4 +21,5 @@ Litecoin's primary innovation, increasing the block time from 10 minutes to 2.5 
 
 Despite the increased block time, Litecoin's preference for emulating BTC's scaling strategy without raising the block size may hinder its ability to scale effectively for global payments. The limitations of this approach may become more apparent as the demand for fast and scalable transactions grows.
 
+
 In comparison, Bitcoin Cash distinguishes itself by prioritizing on-chain scaling to achieve faster and more affordable transactions. While Litecoin might serve as a supplementary option in the cryptocurrency space, its lack of significant innovation, limited adoption for payments, and adherence to a scaling strategy akin to Bitcoin may impact its potential to compete as a comprehensive and globally scalable peer-to-peer electronic cash system, a goal central to Bitcoin Cash.

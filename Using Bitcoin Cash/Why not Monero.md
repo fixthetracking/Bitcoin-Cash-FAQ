@@ -17,4 +17,5 @@ Monero's obfuscated transactions prevent blockchain pruning, limiting its scalab
 
 Monero's lack of emphasis on decentralized finance (DeFi) may hinder its ability to compete with other cryptocurrencies that offer such features.
 
+
 While both communities are committed to peer-to-peer cash, the Monero community's unique approach, acceptance of ongoing inflation, and its specific emphasis on privacy may limit its appeal for broader adoption, especially in the face of regulatory challenges and scalability concerns. The Bitcoin Cash community, while valuing privacy, maintains a different strategy and emphasis on accessibility for a broader user base.

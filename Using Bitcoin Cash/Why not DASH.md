@@ -29,4 +29,5 @@ Bitcoin Cash, however, has advanced scripting through the various opcodes design
 
 While DASH is quite a capable currency, it falls far short of the Bitcoin brand recognition. Bitcoin Cash, as a major fork of the original Bitcoin implementation, has wide recognition as a top peer-to-peer currency. Bitcoin Cash is accepted at thousands of merchants around the world. 
 
+
 In summary, DASH operates effectively as a peer-to-peer currency, but concerns arise regarding its origins, governance, and utility. Issues such as the Fastmine bug and reliance on proof-of-stake raise questions of fairness and centralization. While its built-in DAO offers funding for network improvements, it risks gatekeeping and corruption. DASH's limited programmability contrasts with Bitcoin Cash's advanced scripting capabilities, and it lacks the widespread recognition of Bitcoin Cash, hindering its adoption.

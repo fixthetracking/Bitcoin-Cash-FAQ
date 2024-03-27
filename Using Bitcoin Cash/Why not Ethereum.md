@@ -17,4 +17,5 @@ Ethereum's original promise of "code is law" faced a significant setback with th
 
 Ethereum exhibits a degree of social centralization around its co-founder, Vitalik Buterin. The community heavily relies on Buterin's ideas and judgment, making the network vulnerable to changes in his influence or decision-making. If circumstances were to alter Buterin's role or influence, Ethereum might face challenges in maintaining leadership and direction within the community.
 
+
 In summary, Ethereum's groundbreaking capabilities in running diverse computer programs on a blockchain come with trade-offs, including scalability issues, a complex transition plan, a history of compromising immutability, and a degree of social centralization. These factors contribute to why Ethereum might not be as competitive as Bitcoin Cash, especially in the context of serving as a peer-to-peer electronic cash system.

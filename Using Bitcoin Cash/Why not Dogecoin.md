@@ -19,4 +19,5 @@ The fun vibe associated with Dogecoin can quickly diminish, especially as the pr
 
 While charitable donations and a light-hearted approach initially attracted users, a lack of serious commitment to the project beyond jokes or charitable activities may hinder Dogecoin's ability to compete on a larger scale.
 
+
 In contrast, Bitcoin Cash maintains a focus on providing a peer-to-peer electronic cash system, with ongoing development efforts, infrastructure support, and a commitment to scalability. While Dogecoin has its merits, it may face challenges in establishing itself as a serious contender for broader adoption and use, especially in comparison to projects with a more robust foundation and commitment to long-term goals like Bitcoin Cash.
