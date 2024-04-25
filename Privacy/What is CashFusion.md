@@ -13,4 +13,6 @@ The protocol's security features include protection against potential theft by s
 
 CashFusion challenges the common assumption that CoinJoins require equal amounts for privacy. While traditional mixing solutions like ZeroLink and Whirlpool limit mixing to equal amounts, CashFusion aims to provide privacy through CoinJoins without this restriction. The protocol's approach involves creating more inputs and outputs in a CoinJoin transaction, making it harder for blockchain analysts to trace the original configuration. Additionally, CashFusion includes a feature allowing users to chop up outputs into smaller chunks, further enhancing privacy.
 
+Select CashFusion statistics are available [here](https://fusionstats.redteam.cash/).
+
 CashFusion is currently available for use with [Electron Cash](https://electroncash.org/) and [Stack Wallet](https://stackwallet.com/). 
