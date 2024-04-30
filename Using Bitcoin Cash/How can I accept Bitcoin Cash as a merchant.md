@@ -5,6 +5,7 @@ There are many payment gateways that simplify accepting Bitcoin Cash, including:
 * [Blockonomics](https://bch.blockonomics.co/)
 * [BitPay](https://bitpay.com/)
 * [GoCrypto](https://gocrypto.com/)
+* [Bitrequest](https://www.bitrequest.io/)
 * [Anypay](https://anypayx.com/)
 * [Plisio](https://plisio.net/)
 * [GoUrl](https://gourl.io/)
