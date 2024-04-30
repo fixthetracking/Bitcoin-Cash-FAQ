@@ -3,6 +3,6 @@
 
 Electron Cash for desktop and Android can run [CashFusion](https://bchfaq.com/knowledge-base/what-is-cashfusion/), a coin mixing protocol for privacy.
 
-Electron Cash for desktop is CashTokens-compatible while CashTokens compatibility is currently being developed for the Android version.
+Electron Cash for desktop is compatible with [CashTokens](https://bchfaq.com/knowledge-base/what-are-cashtokens/) while CashTokens compatibility is currently being developed for the Android version.
 
 ![Electron Cash screenshot](https://electroncash.org/images/wallet-shot-3.png)
