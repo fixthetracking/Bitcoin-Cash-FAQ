@@ -3,7 +3,11 @@ Litecoin faces several challenges that may limit its competitiveness as a signif
 
 #### Nonsensical Slogan: 
 
-Litecoin markets itself as the "silver to Bitcoin's gold." Unfortunately it is ultimately a meaningless slogan. The historical context of silver being a practical supplement to gold for coin minting doesn't apply to cryptocurrencies, where software can accurately divide coins into fractions.
+Litecoin markets itself as the "silver to Bitcoin's gold." However, the historical context of silver being a practical supplement to gold for coin minting doesn't apply to cryptocurrencies, where software can accurately divide coins into fractions.
+
+#### Unfair Distribution:
+
+In its first days, Litecoin underwent an "[instamine](https://beincrypto.com/charlie-lee-stirs-dash-instamine-controversy-attracts-scrutiny-to-litecoins-own-misgivings/)". While there are normally 576 blocks mined per day, the first two days of its existence saw the creation of approximately 10,000 blocks, generating half a million coins extremely quickly. This behavior does not instill trust in the project as many suspect insiders were given an unfair advantage. These suspicions may cause Litecoin to eventually be considered an unregistered security by regulators.
 
 #### Lack of Innovation: 
 
