@@ -5,7 +5,7 @@ The split between Bitcoin Cash and BSV was due to the latter's supporters wantin
 
 In recent years BSV has focused on being a government regulation-friendly blockchain. As a consequence of that ethos, BSV has implemented UTXO freezing and UTXO confiscation to be able to carry out court-ordered asset seizures. These are extremely odd features compared to other cryptocurrencies since the birth of cryptocurrency was tightly linked to a rejection of the centralized world of fiat currencies and government regulation.
 
-As a result of issues with node synchronization, the bloat of arbitrary arbitrary data on the blockchain, and controversial leadership; many block explorers and cryptocurrency exchanges have dropped support for BSV.
+As a result of issues with node synchronization, the bloat of arbitrary data on the blockchain, and controversial leadership; many block explorers and cryptocurrency exchanges have dropped support for BSV.
 
 In contrast to BSV, Bitcoin Cash has worked continually to reenable or introduce opcodes in the virtual machine to improve the protocol's functionality. Bitcoin Cash has also carefully increased the block size while taking care to optimize the rest of the ecosystem for increased throughput. This more thought-out approach has led to very stable upgrades, solid network performance, and continued support in block explorers and exchanges.
 
