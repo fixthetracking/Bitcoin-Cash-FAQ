@@ -1,12 +1,12 @@
 ---
 [Flowee Pay](https://flowee.org/products/pay/) is a Bitcoin Cash wallet heavily focused on usability. Flowee Pay has introduced the idea of "modules" - optional add-ons to expand the functionality of the wallet. Currently there are two modules. The Create Transactions module allows for more powerful transactions in a simple interface. The Peers View module allows the user to view the nodes their wallet is connected to. More modules are expected in the future. Flowee Pay is available on [Android](https://play.google.com/store/apps/details?id=org.flowee.pay).
 
-<center>
 <figure>
   <img src="https://play-lh.googleusercontent.com/nfRrL4twgbdSsfrSc4Tg6Mu1gjNsROUUXRgCbTeA-E_vjjpfzWBaAcMHyxWlXbn0avc=w2560-h1440-rw" alt="Create an Invoice"/>
-  <figcaption>Create an Invoice</figcaption>
+  <center>
+    <figcaption>Create an Invoice</figcaption>
+  </center>
 </figure>
-</center>
 
 
 
