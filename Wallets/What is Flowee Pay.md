@@ -5,6 +5,7 @@
 
 *Create an Invoice*
 &nbsp;
+&nbsp;
 
 ![Flowee Pay approve payment](https://bchfaq.com/wp-content/uploads/2024/05/Flowee-Pay-Approve-Payment-e1714678533964.webp)
 
