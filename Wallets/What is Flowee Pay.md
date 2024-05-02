@@ -4,6 +4,8 @@
 ![Flowee Create Invoice](https://bchfaq.com/wp-content/uploads/2024/05/Flowee-Pay-Create-Invoice-e1714678311564.webp)
 
 *Create an Invoice*
+&nbsp;
 
-![Flowee Pay approve payment](https://play-lh.googleusercontent.com/xtUY1t4fmKS4vD5t6TVk0GsWGxLyL_CdnP-206LvLnWtNCyGetFHSHtwRWDUdO8U9Man=w2560-h1440-rw)
+![Flowee Pay approve payment](https://bchfaq.com/wp-content/uploads/2024/05/Flowee-Pay-Approve-Payment-e1714678533964.webp)
+
 *Approve Payment*
