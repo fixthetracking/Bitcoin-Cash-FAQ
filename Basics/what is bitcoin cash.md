@@ -5,4 +5,4 @@ Bitcoin Cash is decentralized so that no business, institution, or government ca
 
 Bitcoin Cash offers anyone in the world the chance to enjoy financial sovereignty like never before.
 
-Go to [WhatIsBitcoinCash.org](whatisbitcoincash.org) for more information.
+Go to [WhatIsBitcoin.Cash](http://whatisbitcoin.cash) for more information.
